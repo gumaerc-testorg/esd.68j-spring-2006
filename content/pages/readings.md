@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 08de00e7-14d9-dfd8-6aee-d140faaff75b
 ---
@@ -63,7 +66,7 @@ FCC Spectrum Policy Task Force; Paul Kolodzy, director. "SPTF Report." ET Docket
 
 Kwerel, Evan, and John Williams. "A Proposal for a Rapid Transition to Market Allocation of Spectrum." OSP Working Paper 38, Federal Communications Commission, November 2002. ([PDF](http://hraunfoss.fcc.gov/edocs_public/attachmatch/DOC-228552A1.pdf))
 
-Lehr, William. "Economic Case for Dedicated Unlicensed Below 3GHz." 2004. ([PDF](http://www.newamerica.net/files/Doc_File_1899_working_paper.pdf))
+Lehr, William. "Economic Case for Dedicated Unlicensed Below 3GHz." 2004. ([PDF](https://static.newamerica.org/attachments/3882-the-economic-case-for-dedicated-unlicensed-spectrum-below-3ghz/Doc_File_1899_working_paper.d552ddbd4e7c472697f26249591af374.pdf))
 
 ### Supplemental Readings
 
