@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e98f04db-a5fa-fe94-257d-658eb039b064
 resourcetype: Document
 title: mod3c_intro.pdf
 uid: 5146046f-a40c-2d3f-95aa-316d7a644bd5

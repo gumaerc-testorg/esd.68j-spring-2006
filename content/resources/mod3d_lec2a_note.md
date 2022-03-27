@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e98f04db-a5fa-fe94-257d-658eb039b064
 resourcetype: Document
 title: mod3d_lec2a_note.pdf
 uid: 2aa603e1-56eb-f2c1-c554-21e8fd3a6955

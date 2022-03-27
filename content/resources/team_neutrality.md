@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 87a62d08-3fdc-a096-dd83-8c3295cabb70
 resourcetype: Document
 title: team_neutrality.pdf
 uid: 0171f89d-86d7-3698-3083-6fa2a0594551

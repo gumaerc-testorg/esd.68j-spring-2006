@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 08de00e7-14d9-dfd8-6aee-d140faaff75b
 resourcetype: Document
 title: blogging_policy.pdf
 uid: 6e4666ee-ac2c-b250-9b06-8f596f26343d

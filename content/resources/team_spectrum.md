@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 87a62d08-3fdc-a096-dd83-8c3295cabb70
 resourcetype: Document
 title: team_spectrum.pdf
 uid: 27967328-150f-d52d-6c49-4be89e230439

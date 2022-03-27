@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 08de00e7-14d9-dfd8-6aee-d140faaff75b
 resourcetype: Document
 title: future_internet.pdf
 uid: bbd39e32-7e32-44b2-0a3f-6d467bd32b9e

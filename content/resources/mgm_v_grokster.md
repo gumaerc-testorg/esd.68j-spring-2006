@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 08de00e7-14d9-dfd8-6aee-d140faaff75b
 resourcetype: Document
 title: mgm_v_grokster.pdf
 uid: 07d09c0d-1acb-da28-4b3c-692cd8584d78

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 08de00e7-14d9-dfd8-6aee-d140faaff75b
 resourcetype: Document
 title: clark_insider.pdf
 uid: 9e1e8fea-9982-28aa-149b-091ce19ae9e8

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 87a62d08-3fdc-a096-dd83-8c3295cabb70
 resourcetype: Document
 title: midterm_question.pdf
 uid: 350487c0-8b53-45e0-6a25-8b557f5db2a8

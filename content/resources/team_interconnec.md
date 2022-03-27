@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 87a62d08-3fdc-a096-dd83-8c3295cabb70
 resourcetype: Document
 title: team_interconnec.pdf
 uid: 600fc67b-aceb-5bd5-bd69-b5742331c120

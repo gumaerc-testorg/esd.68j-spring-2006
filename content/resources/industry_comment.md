@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 87a62d08-3fdc-a096-dd83-8c3295cabb70
 resourcetype: Other
 title: industry_comment.zip
 uid: 68ccc03d-68f0-c63d-8857-dac586f94a30
