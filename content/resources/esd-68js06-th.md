@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/esd-68j-communications-and-information-policy-spring-2006/a3ff4fa57fe33bda123c1d9877285990_esd-68js06-th.jpg
+file: /courses/esd-68j-communications-and-information-policy-spring-2006/a3ff4fa57fe33bda123c1d9877285990_esd-68js06-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: In 1998, university professor Kembrew McLeod trademarked the phrase "freedom
@@ -11,8 +11,10 @@ image_metadata:
   credit: ''
   image-alt: Image of patent for phrase - Freedom of Expression.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-68js06-th.jpg
 uid: a3ff4fa5-7fe3-3bda-123c-1d9877285990
 ---
+New image Upload
