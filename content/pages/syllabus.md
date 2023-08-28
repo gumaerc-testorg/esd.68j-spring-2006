@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section contains summary of the course, prerequisites, textbook,
+  grading and assignment information, and basic course layout.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

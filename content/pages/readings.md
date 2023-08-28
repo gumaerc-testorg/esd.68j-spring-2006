@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The readings section lists the various readings assignments for the different
+  modules covered during the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -16,11 +18,11 @@ Module 1: Technology
 
 ### Required Readings 
 
-Clark, David D. "An Insider's Guide to the Internet" ([PDF]({{< baseurl >}}/resources/clark_insider))
+Clark, David D. "An Insider's Guide to the Internet" ({{% resource_link 9e1e8fea-9982-28aa-149b-091ce19ae9e8 "PDF" %}})
 
-———. "Architecting a Networked Application" ([PDF]({{< baseurl >}}/resources/clark_app_arch21))
+———. "Architecting a Networked Application" ({{% resource_link 25c32417-5242-9eb4-dba5-e7494d53b327 "PDF" %}})
 
-———. "Readings on Alternative Futures for the Internet" ([PDF]({{< baseurl >}}/resources/future_internet))
+———. "Readings on Alternative Futures for the Internet" ({{% resource_link bbd39e32-7e32-44b2-0a3f-6d467bd32b9e "PDF" %}})
 
 Blumenthal, Marjory S., and David D. Clark. "Rethinking the Design of the Internet: The End-to-End Arguments vs. the Brave New World." _ACM Transactions on Internet Technology_ 1, no. 1 (August 2001): 70-109.
 
@@ -41,7 +43,7 @@ Textbook, Chapter 1.
 
 Bray, Hiawatha. "Groups mobilize against fees for bulk e-mailings: YAHOO®, AOL target spam." _Boston Globe_, February 28, 2006. 
 
-Blogging Policy Proposal ([PDF]({{< baseurl >}}/resources/blogging_policy))
+Blogging Policy Proposal ({{% resource_link 6e4666ee-ac2c-b250-9b06-8f596f26343d "PDF" %}})
 
 ### Supplemental Readings
 
@@ -117,9 +119,9 @@ Netanel, Neil W. "[Copyright and the First Amendment; What Eldred Misses - and P
 
 Winner, Langdon. "Do Artifacts Have Politics?" In _The Whale and the Reactor: A Search for Limits in an Age of High Technology_. Chicago, IL: University of Chicago Press, 1988. ISBN: 0226902110. Cited by Lessig as his inspiration for his model of the modalities of control, the "new" Chicago School.
 
-Lessig, Lawrence. "The New Chicago School." _Journal of Legal Studies_ 27, no. 2 (June 1998). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://cyber.law.harvard.edu/works/lessig/LNC_Q_D2.PDF))
+Lessig, Lawrence. "The New Chicago School." _Journal of Legal Studies_ 27, no. 2 (June 1998). ([PDF](http://cyber.law.harvard.edu/works/lessig/LNC_Q_D2.PDF))
 
-"[Privacy and Piracy: The Paradox of Illegal File Sharing on Peer-to-Peer Networks and the Impact of Technology on the Entertainment Industry](http://hsgac.senate.gov/index.cfm?FuseAction=Hearings.Detail&HearingID=120)." Hearing Before the United States Senate Committee on Governmental Affairs, September 30, 2003. The testimony offers insights into how the various constituencies are considering the problem of digital content. See, in particular, the testimony of the MPAA's [Jack Valenti](http://hsgac.senate.gov/index.cfm?Fuseaction=Hearings.Testimony&HearingID=120&WitnessID=415) and that of Sharman Network's [Alan Morris](http://hsgac.senate.gov/index.cfm?Fuseaction=Hearings.Testimony&HearingID=120&WitnessID=418). For a particularly extreme view of intellectual property, see the testimony of James DeLong (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF](http://hsgac.senate.gov/public/index.cfm?FuseAction=Files.View&FileStore_id=bb99b01c-5632-472a-a70a-54513cb30b31)).
+"[Privacy and Piracy: The Paradox of Illegal File Sharing on Peer-to-Peer Networks and the Impact of Technology on the Entertainment Industry](http://hsgac.senate.gov/index.cfm?FuseAction=Hearings.Detail&HearingID=120)." Hearing Before the United States Senate Committee on Governmental Affairs, September 30, 2003. The testimony offers insights into how the various constituencies are considering the problem of digital content. See, in particular, the testimony of the MPAA's [Jack Valenti](http://hsgac.senate.gov/index.cfm?Fuseaction=Hearings.Testimony&HearingID=120&WitnessID=415) and that of Sharman Network's [Alan Morris](http://hsgac.senate.gov/index.cfm?Fuseaction=Hearings.Testimony&HearingID=120&WitnessID=418). For a particularly extreme view of intellectual property, see the testimony of James DeLong ( [PDF](http://hsgac.senate.gov/public/index.cfm?FuseAction=Files.View&FileStore_id=bb99b01c-5632-472a-a70a-54513cb30b31)).
 
 Biddle, P., P. England, M. Peinado, and B. Willman. "[The darknet and the future of content distribution](http://crypto.stanford.edu/DRM2002/darknet5.doc)." [2002 ACM Workshop on Digital Rights Management](http://crypto.stanford.edu/DRM2002/prog.html). Washington DC, November 18, 2002.
 
@@ -172,9 +174,9 @@ Madden, Mary. "[Artists, Musicians and the Internet](http://www.pewinternet.org/
 
 [EFF's MGM v. Grokster Archive](https://www.eff.org/cases/mgm-v-grokster)
 
-MGM v. Grokster, U.S. Supreme Court No. 04-480 (slip opinion, June 27, 2005). ([PDF]({{< baseurl >}}/resources/mgm_v_grokster))
+MGM v. Grokster, U.S. Supreme Court No. 04-480 (slip opinion, June 27, 2005). ({{% resource_link 07d09c0d-1acb-da28-4b3c-692cd8584d78 "PDF" %}})
 
-Electronic Frontier Foundation. "RIAA v. The People: Two Years Later." November 2, 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://w2.eff.org/IP/P2P/RIAAatTWO_FINAL.pdf))
+Electronic Frontier Foundation. "RIAA v. The People: Two Years Later." November 2, 2005. ([PDF](http://w2.eff.org/IP/P2P/RIAAatTWO_FINAL.pdf))
 
 Schwarz, John. "With Cable TV and M.I.T, Who Needs Napster." _New York Times_, October 27, 2003.  
 This article describes the once shut down, but now recently restarted [LAMP Project](http://lamp.mit.edu/) at MIT -- an indication of just how byzantine is the law of copyright in the digital age.
@@ -189,7 +191,7 @@ Lessig, Lawrence. _Free Culture: How Big Media Uses Technology and the Law to Lo
 
 Bollier, David. [Introduction](http://www.goodreads.com/book/show/487747.Brand_Name_Bullies) and [Excerpts](http://www.goodreads.com/book/show/487747.Brand_Name_Bullies) from [_Brand Name Bullies, The Quest to Own and Control Culture_](http://www.goodreads.com/book/show/487747.Brand_Name_Bullies). New York, NY: John Wiley & Sons, 2005.
 
-McLeod, Kembrew. _Freedom of Expression®_. New York, NY: Doubleday; 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.2 MB](http://ir.uiowa.edu/cgi/viewcontent.cgi?article=1008&context=commstud_pubs))  
+McLeod, Kembrew. _Freedom of Expression®_. New York, NY: Doubleday; 2005. ([PDF - 2.2 MB](http://ir.uiowa.edu/cgi/viewcontent.cgi?article=1008&context=commstud_pubs))  
 This [text](http://kembrew.com/books/) on intellectual property was released under a Creative Commons license. The title refers to the fact that Prof. McLeod was awarded the trademark to "Freedom of Expression."
 
 Module 3c: Interconnection of Service Providers
@@ -283,11 +285,11 @@ Lemley, M. A., and L. Lessig. "[The End of End-to-End: Preserving the Architectu
 
 ### Supplemental Readings
 
-Center for Digital Democracy. "The Assault on Network Neutrality." Multiple postings. On this site, Cisco Systems' "Deploying Premium Services using Cisco Service Control Technology" is one of the better white papers for getting a feel for vendor offerings in this space. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.cisco.com/en/US/prod/collateral/ps7045/ps6129/ps6133/ps6150/prod_brochure0900aecd8025258e.pdf))
+Center for Digital Democracy. "The Assault on Network Neutrality." Multiple postings. On this site, Cisco Systems' "Deploying Premium Services using Cisco Service Control Technology" is one of the better white papers for getting a feel for vendor offerings in this space. ([PDF](http://www.cisco.com/en/US/prod/collateral/ps7045/ps6129/ps6133/ps6150/prod_brochure0900aecd8025258e.pdf))
 
 Windhausen, John, Jr. "Good Fences Make Bad Broadband: Preserving an Open Internet Through Net Neutrality." Public Knowledge, Feb 6, 2006. ([PDF](http://netcompetition.org/wp-content/uploads/docs/pronetneut/pk_020606.pdf))
 
-Senate Commerce Committee Hearings on Network Neutrality, February 7, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=109_senate_hearings&docid=f:30115.pdf))
+Senate Commerce Committee Hearings on Network Neutrality, February 7, 2006. ([PDF](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=109_senate_hearings&docid=f:30115.pdf))
 
 Bar, F., S. Cohen, P. Cowhey, B. DeLong, M. Kleeman, and J. Zysman. "Access and Innovation Policy for the Third-Generation Internet." _Telecommunications Policy_ 24, no. 6-7 (2000): 489-518.
 
