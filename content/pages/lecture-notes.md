@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lecture notes section lists the various topics covered during the
+  course along with their respective files.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -42,7 +44,7 @@ INSTRUCTORS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-A Quick Guide to the Internet ([PDF]({{< baseurl >}}/resources/mod1_lec1))
+A Quick Guide to the Internet ({{% resource_link 8cb9e616-dccb-84d7-aa80-5d8d0bdf1386 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Clark
@@ -54,7 +56,7 @@ Clark
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Application Design on the Internet ([PDF]({{< baseurl >}}/resources/mod1_lec2))
+Application Design on the Internet ({{% resource_link 0ec49df5-135a-e42d-ac79-60df6e4693a5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Clark
@@ -66,7 +68,7 @@ Clark
 3
 {{< tdclose >}}
 {{< tdopen >}}
-EE 101 ([PDF]({{< baseurl >}}/resources/mod1_lec3))
+EE 101 ({{% resource_link bf760030-db37-2bab-28ce-53734e7daf99 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Clark
@@ -78,7 +80,7 @@ Clark
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Internet Interconnection ([PDF]({{< baseurl >}}/resources/mod1_lec4))
+Internet Interconnection ({{% resource_link 38a26d32-a1f1-a5f8-cb5e-7f8b422c6bea "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Clark
@@ -96,7 +98,7 @@ Clark
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Why have Regulators been so involved in Telecommunications? ([PDF]({{< baseurl >}}/resources/mod2_lec1))
+Why have Regulators been so involved in Telecommunications? ({{% resource_link 7e457a58-fb86-c891-4c2c-c0bcbe5846ed "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Gillett and Lehr
@@ -132,7 +134,7 @@ Gillett and Lehr
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Spectrum Management Reform, Part 1 ([PDF 1]({{< baseurl >}}/resources/mod3a_intro)) ([PDF 2]({{< baseurl >}}/resources/mod3a_lec1))
+Spectrum Management Reform, Part 1 ({{% resource_link 6dcba3f1-23fc-5b94-612f-0c44224dabf9 "PDF 1" %}}) ({{% resource_link 28f4e4a0-b658-9971-551d-e37ac07bdddd "PDF 2" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Lehr
@@ -144,7 +146,7 @@ Lehr
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Spectrum Management Reform, Part 2 ([PDF]({{< baseurl >}}/resources/mod3a_lec2))
+Spectrum Management Reform, Part 2 ({{% resource_link ff21554a-097a-1aa8-f342-bb498a5753f9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Lehr
@@ -162,7 +164,7 @@ Lehr
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Intellectual Property: Content and Digital Telecommunication Policy (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB]({{< baseurl >}}/resources/mod3b_lec1))
+Intellectual Property: Content and Digital Telecommunication Policy ({{% resource_link e0657771-f5fd-2410-e52b-858055b06ca2 "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Field
@@ -174,7 +176,7 @@ Field
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Architecture and Control (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8 MB]({{< baseurl >}}/resources/mod3b_lec2))
+Architecture and Control ({{% resource_link 0ba4a5e3-8597-8b1b-818e-ca990a879b9f "PDF - 1.8 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Field
@@ -186,7 +188,7 @@ Field
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Culture, Content and Copyright (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mod3b_lec3))
+Culture, Content and Copyright ({{% resource_link 8ac5c780-351a-2620-d930-5b3a362a8936 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Field
@@ -204,7 +206,7 @@ Field
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Challenges for Convergence: Interconnection ([PDF 1]({{< baseurl >}}/resources/mod3c_intro)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/mod3c_slides))
+Challenges for Convergence: Interconnection ({{% resource_link 5146046f-a40c-2d3f-95aa-316d7a644bd5 "PDF 1" %}}) ({{% resource_link d97aee2f-1412-af55-d3ff-5ec8fa0b3a41 "PDF 2" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Lehr
@@ -234,7 +236,7 @@ Lehr
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Competition in Access Networks ([PDF 1]({{< baseurl >}}/resources/mod3d_lec1notes)) ([PDF 2]({{< baseurl >}}/resources/mod3d_lec1slides))
+Competition in Access Networks ({{% resource_link 090617b7-c5da-bb8a-c748-e6c9bee01bb2 "PDF 1" %}}) ({{% resource_link 9f80b298-0eda-f7bf-38f4-e4d28e4042db "PDF 2" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Gillett
@@ -246,7 +248,7 @@ Gillett
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Case Studies: VoIP ([PDF 1]({{< baseurl >}}/resources/mod3d_lec2a_note)) ([PDF 2]({{< baseurl >}}/resources/mod3d_lec2a_slde)), Municipal Broadband
+Case Studies: VoIP ({{% resource_link 2aa603e1-56eb-f2c1-c554-21e8fd3a6955 "PDF 1" %}}) ({{% resource_link e1b9c202-7680-865b-687b-e949fb050977 "PDF 2" %}}), Municipal Broadband
 {{< tdclose >}}
 {{< tdopen >}}
 Gillett
@@ -270,7 +272,7 @@ Guest Lecturers: Patrick McCormick (Brookline Wireless) and Steven Gag (Technolo
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Network Neutrality ([PDF]({{< baseurl >}}/resources/mod3d_lec3_4))
+Network Neutrality ({{% resource_link 2601f8d5-40e3-e289-760f-fcb43dec619a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Gillett
@@ -294,7 +296,7 @@ Gillett
 19
 {{< tdclose >}}
 {{< tdopen >}}
-IPTV ([PDF]({{< baseurl >}}/resources/mod3d_iptv)) (Courtesy of Marie-José Montpetit. Used with permission.)
+IPTV ({{% resource_link 597f6936-955b-14cd-3227-3f931abcfbea "PDF" %}}) (Courtesy of Marie-José Montpetit. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Marie-José Montpetit, Motorola
@@ -324,7 +326,7 @@ Scott Bradner, Harvard University
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Open Access, or Making Money Openly ([PDF]({{< baseurl >}}/resources/mod4_lec2))
+Open Access, or Making Money Openly ({{% resource_link ed12af90-273a-45ef-dbee-1a23b9ee0464 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Clark

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignments section contains the explanation for the mid-term and
+  final paper. It also lists a few final project submitted by students.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -14,9 +16,9 @@ Mid-term Paper
 
 The class will be given a written piece of policy advocacy on themes relevant to the course. Students will then be expected to write a paper that analyzes the piece's arguments and rhetorical techniques.
 
-Mid-term Paper Assignment: Deconstructing a Policy Document ([PDF]({{< baseurl >}}/resources/midterm_question))
+Mid-term Paper Assignment: Deconstructing a Policy Document ({{% resource_link 350487c0-8b53-45e0-6a25-8b557f5db2a8 "PDF" %}})
 
-Mid-term Paper Readings - Industry Comments ([ZIP - 2.8 MB]({{< baseurl >}}/resources/industry_comment)) (The ZIP file contains: 3 .pdf files.)
+Mid-term Paper Readings - Industry Comments ({{% resource_link 68ccc03d-68f0-c63d-8857-dac586f94a30 "ZIP - 2.8 MB" %}}) (The ZIP file contains: 3 .pdf files.)
 
 Final Projects
 --------------
@@ -46,7 +48,7 @@ STUDENTS
 Interconnection Team
 {{< tdclose >}}
 {{< tdopen >}}
-End-to-end Quality of Service ([PDF]({{< baseurl >}}/resources/team_interconnec))
+End-to-end Quality of Service ({{% resource_link 600fc67b-aceb-5bd5-bd69-b5742331c120 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Robert Rudin, Chaki Ng, Clifford Kahn
@@ -58,7 +60,7 @@ Robert Rudin, Chaki Ng, Clifford Kahn
 Net Neutrality Team
 {{< tdclose >}}
 {{< tdopen >}}
-Network Neutrality and Harmful Discrimination ([PDF]({{< baseurl >}}/resources/team_neutrality))
+Network Neutrality and Harmful Discrimination ({{% resource_link 0171f89d-86d7-3698-3083-6fa2a0594551 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Richard Hansen, Elisabeth Maida, Gladys Priso
@@ -70,7 +72,7 @@ Richard Hansen, Elisabeth Maida, Gladys Priso
 Spectrum Team
 {{< tdclose >}}
 {{< tdopen >}}
-Spectrum Allocation for Municipal Wireless Mesh Networks ([PDF]({{< baseurl >}}/resources/team_spectrum))
+Spectrum Allocation for Municipal Wireless Mesh Networks ({{% resource_link 27967328-150f-d52d-6c49-4be89e230439 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 M. Hassan-Ali, H. Jones, H. Matsunaga
