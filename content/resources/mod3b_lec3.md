@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource explains the topic culture, content and copyright.
 file: /courses/esd-68j-communications-and-information-policy-spring-2006/8ac5c780351a2620d9305b3a362a8936_mod3b_lec3.pdf
+file_size: 942923
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

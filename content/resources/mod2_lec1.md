@@ -4,6 +4,7 @@ description: This resource explains the topics regulatory frameworks, policy rat
   RoR, transition to competition, European regulatory framework, convergence and legacy
   regulation, courts and antitrust enforcement.
 file: /courses/esd-68j-communications-and-information-policy-spring-2006/7e457a58fb86c8914c2cc0bcbe5846ed_mod2_lec1.pdf
+file_size: 116018
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource explains the topics network neutrality, ISPs blocking things,
   digression, Akamai.
 file: /courses/esd-68j-communications-and-information-policy-spring-2006/ed12af90273a45efdbee1a23b9ee0464_mod4_lec2.pdf
+file_size: 92911
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
