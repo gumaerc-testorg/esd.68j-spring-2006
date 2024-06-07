@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource explains the topic intellectual property: content and
   digital telecommunication policy.'
 file: /courses/esd-68j-communications-and-information-policy-spring-2006/e0657771f5fd2410e52b858055b06ca2_mod3b_lec1.pdf
+file_size: 1198026
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

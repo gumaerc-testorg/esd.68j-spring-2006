@@ -4,6 +4,7 @@ description: 'This resource explains the topics public policy and municipal broa
   taxonomy: role of Government vis a vis Broadband, unlicensed wireless wildcard,
   diverse PPP approaches, open access decision points.'
 file: /courses/esd-68j-communications-and-information-policy-spring-2006/0cf2545a5157a2c8ad3cdf2aac117d5e_mod3d_lec2b_slde.pdf
+file_size: 1000409
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

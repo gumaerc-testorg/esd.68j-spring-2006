@@ -5,6 +5,7 @@ description: This resource contains 3 questions to test the student understandin
   a paper that compares and contrasts these comments giving special consideration
   to the 3 questions.
 file: /courses/esd-68j-communications-and-information-policy-spring-2006/350487c08b5345e06a258b557f5db2a8_midterm_question.pdf
+file_size: 20814
 file_type: application/pdf
 learning_resource_types:
 - Assignments
