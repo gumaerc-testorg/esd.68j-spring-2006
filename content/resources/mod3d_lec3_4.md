@@ -3,6 +3,7 @@ content_type: resource
 description: This resource explains the topics network discrimination, economic incentives,
   congressional attempts.
 file: /courses/esd-68j-communications-and-information-policy-spring-2006/2601f8d540e3e289760ffcb43dec619a_mod3d_lec3_4.pdf
+file_size: 109077
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

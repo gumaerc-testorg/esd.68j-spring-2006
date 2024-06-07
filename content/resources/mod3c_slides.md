@@ -4,6 +4,7 @@ description: This resource explains the topics interconnection, access printing,
   network, interconnection models, interconnection and market power, regulating interconnection,
   carrier interconnection and some additional slides.
 file: /courses/esd-68j-communications-and-information-policy-spring-2006/d97aee2f1412af55d3ff5ec8fa0b3a41_mod3c_slides.pdf
+file_size: 821996
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource explains the topic architecture and control.
 file: /courses/esd-68j-communications-and-information-policy-spring-2006/0ba4a5e385978b1b818eca990a879b9f_mod3b_lec2.pdf
+file_size: 1878800
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

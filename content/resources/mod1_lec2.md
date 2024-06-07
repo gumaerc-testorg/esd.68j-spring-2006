@@ -4,6 +4,7 @@ description: This resource is a quick guide to the application design on the int
   Other topics like servers, value chain assessment, stakeholders, security architecture,
   ISPs are also explained.
 file: /courses/esd-68j-communications-and-information-policy-spring-2006/0ec49df5135ae42dac7960df6e4693a5_mod1_lec2.pdf
+file_size: 125563
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

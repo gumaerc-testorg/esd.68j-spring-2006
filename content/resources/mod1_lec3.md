@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a quick guide to the EE problem.
 file: /courses/esd-68j-communications-and-information-policy-spring-2006/bf760030db372bab28ce53734e7daf99_mod1_lec3.pdf
+file_size: 153659
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

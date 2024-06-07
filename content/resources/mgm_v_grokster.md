@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource explains the case MGM v. Grokster.
 file: /courses/esd-68j-communications-and-information-policy-spring-2006/07d09c0d1acbda284b3c692cd8584d78_mgm_v_grokster.pdf
+file_size: 372559
 file_type: application/pdf
 learning_resource_types:
 - Readings

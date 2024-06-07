@@ -3,6 +3,7 @@ content_type: resource
 description: This resource explains the topic Voice over IP, three classes of Internet
   telephony, and VoIP scenarios.
 file: /courses/esd-68j-communications-and-information-policy-spring-2006/e1b9c2027680865b687be949fb050977_mod3d_lec2a_slde.pdf
+file_size: 33602
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
