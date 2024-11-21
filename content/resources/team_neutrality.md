@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a final presentations by students Richard Hansen, Elisabeth
   Maida, Gladys Priso.
-file: /courses/esd-68j-communications-and-information-policy-spring-2006/0171f89d86d7369830836fa2a0594551_team_neutrality.pdf
+file: /ol-ocw-studio-app/courses/esd-68j-communications-and-information-policy-spring-2006/0171f89d86d7369830836fa2a0594551_team_neutrality.pdf
 file_size: 136620
 file_type: application/pdf
 learning_resource_types:

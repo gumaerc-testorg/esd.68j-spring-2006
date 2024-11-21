@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource explains the topics spectrum reform, goals for spectrum
   policy reform, interference, 3G, WLAN.
-file: /courses/esd-68j-communications-and-information-policy-spring-2006/ff21554a097a1aa8f342bb498a5753f9_mod3a_lec2.pdf
+file: /ol-ocw-studio-app/courses/esd-68j-communications-and-information-policy-spring-2006/ff21554a097a1aa8f342bb498a5753f9_mod3a_lec2.pdf
 file_size: 122589
 file_type: application/pdf
 learning_resource_types:
