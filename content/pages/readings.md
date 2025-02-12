@@ -131,7 +131,7 @@ Bowman, Lisa. "Programmers enroll in political training." *CNet News*, June 10, 
 
 ### Supplemental Readings
 
-Samuelson, Pamela. [Economic and Constitutional Influences on Copyright Law in the United States](http://www.sims.berkeley.edu/~pam/papers/Sweet&Maxwell_1.htm). -- A formal discussion of the differences between U.S. and European copyright law.
+Samuelson, Pamela. [Economic and Constitutional Influences on Copyright Law in the United States](https://www.law.berkeley.edu/center-article/economic-and-constitutional-influences-on-copyright-law-in-the-united-states/). -- A formal discussion of the differences between U.S. and European copyright law.
 
 Mann, Charles. "The Heavenly Jukebox." *Atlantic Monthly* (September 2000).
 
@@ -151,7 +151,7 @@ Solum, Lawrence B., and Minn Chung. "[The Layers Principle: Internet Architectur
 
 Cave, Damien. "[Chained Melodies](http://www.salon.com/2002/03/13/copy_protection/)." *Salon.com* (March 13, 2002).
 
-Lessig, Lawrence. "The Law of the Horse: What Cyberlaw Might Teach." Harvard Law Review 113 (1999). ([PDF](http://cyber.law.harvard.edu/works/lessig/LNC_Q_D2.PDF))      
+Lessig, Lawrence. "The Law of the Horse: What Cyberlaw Might Teach." Harvard Law Review 113 (1999). ([PDF](http://cyber.law.harvard.edu/works/lessig/LNC_Q_D2.PDF))        
 This article is a highly compressed version of the basic content of Lessig's Code and Other Laws of Cyberspace, which includes more examples and is in a somewhat more approachable style.
 
 Boutin, Paul. "[See you on the darknet](http://www.slate.com/id/2094336/)." *Slate* (January 28, 2004).
@@ -174,7 +174,7 @@ MGM v. Grokster, U.S. Supreme Court No. 04-480 (slip opinion, June 27, 2005). ({
 
 Electronic Frontier Foundation. "RIAA v. The People: Two Years Later." November 2, 2005. ([PDF](http://w2.eff.org/IP/P2P/RIAAatTWO_FINAL.pdf))
 
-Schwarz, John. "With Cable TV and M.I.T, Who Needs Napster." *New York Times*, October 27, 2003.      
+Schwarz, John. "With Cable TV and M.I.T, Who Needs Napster." *New York Times*, October 27, 2003.        
 This article describes the once shut down, but now recently restarted [LAMP Project](http://lamp.mit.edu/) at MIT -- an indication of just how byzantine is the law of copyright in the digital age.
 
 May, Christopher. "[Digital rights management and the breakdown of social norms](http://www.firstmonday.org/issues/issue8_11/may/index.html)." *firstmonday*, no. 8 (November 2003).
@@ -187,7 +187,7 @@ Lessig, Lawrence. *Free Culture: How Big Media Uses Technology and the Law to Lo
 
 Bollier, David. [Introduction](http://www.goodreads.com/book/show/487747.Brand_Name_Bullies) and [Excerpts](http://www.goodreads.com/book/show/487747.Brand_Name_Bullies) from [*Brand Name Bullies, The Quest to Own and Control Culture*](http://www.goodreads.com/book/show/487747.Brand_Name_Bullies). New York, NY: John Wiley & Sons, 2005.
 
-McLeod, Kembrew. *Freedom of Expression®*. New York, NY: Doubleday; 2005. ([PDF - 2.2 MB](http://ir.uiowa.edu/cgi/viewcontent.cgi?article=1008&context=commstud_pubs))      
+McLeod, Kembrew. *Freedom of Expression®*. New York, NY: Doubleday; 2005. ([PDF - 2.2 MB](http://klangable.com/uploads/books/mcleod-freedomofexpression.pdf))        
 This [text](http://kembrew.com/books/) on intellectual property was released under a Creative Commons license. The title refers to the fact that Prof. McLeod was awarded the trademark to "Freedom of Expression."
 
 ## Module 3c: Interconnection of Service Providers
@@ -238,7 +238,7 @@ Computer Science and Telecommunications Board. [*Broadband: Bringing Home the Bi
 
 Johnston, David, and Hassan Yaghoobi (Intel® Corp.) "[Peering into the WiMax Spec](https://www.eetimes.com/peering-into-the-wimax-spec-part-1/#)." Especially part I. CommsDesign, January 20, 2004.
 
-Banerjee, Anupam, and Marvin Sirbu. "Towards Technologically and Competitively Neutral Fiber to the Home (FTTH) Infrastructure." Presented at TPRC, Alexandria, Va., September 20-21, 2003. ([PDF](http://web.archive.org/web/20060515095248/http://100x100network.org/papers/banerjee-tprc2003.pdf))      
+Banerjee, Anupam, and Marvin Sirbu. "Towards Technologically and Competitively Neutral Fiber to the Home (FTTH) Infrastructure." Presented at TPRC, Alexandria, Va., September 20-21, 2003. ([PDF](http://web.archive.org/web/20060515095248/http://100x100network.org/papers/banerjee-tprc2003.pdf))        
 In addition to being an interesting paper on FTTH policy, this work is also an example of engineering cost modeling applied to communications policy - a potential TPP thesis approach.
 
 Johnston, James H., and J. H. Snider. "[Breaking the Chains: Unlicensed Spectrum as a Last-Mile Broadband Solution](https://web.archive.org/web/20190811085706/http://www.ictregulationtoolkit.org/document?document_id=2741)." New America Foundation, Spectrum Policy Program Issue Brief #11, June 2003.
