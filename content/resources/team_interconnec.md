@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a final presentations by students Robert Rudin, Chaki
   Ng, Clifford Kahn.
-file: /ol-ocw-studio-app/courses/esd-68j-communications-and-information-policy-spring-2006/600fc67baceb5bd5bd69b5742331c120_team_interconnec.pdf
+file: /courses/esd-68j-communications-and-information-policy-spring-2006/600fc67baceb5bd5bd69b5742331c120_team_interconnec.pdf
 file_size: 150341
 file_type: application/pdf
 learning_resource_types:
