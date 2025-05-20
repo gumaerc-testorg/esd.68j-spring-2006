@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a final presentations by students M. Hassan-Ali, H.
   Jones, H. Matsunaga.
-file: /ol-ocw-studio-app/courses/esd-68j-communications-and-information-policy-spring-2006/27967328150fd52d6c494be89e230439_team_spectrum.pdf
+file: /courses/esd-68j-communications-and-information-policy-spring-2006/27967328150fd52d6c494be89e230439_team_spectrum.pdf
 file_size: 118445
 file_type: application/pdf
 learning_resource_types:

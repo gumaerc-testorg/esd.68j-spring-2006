@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the topics wireless, RF spectrum, broadcast/media.
-file: /ol-ocw-studio-app/courses/esd-68j-communications-and-information-policy-spring-2006/28f4e4a0b6589971551de37ac07bdddd_mod3a_lec1.pdf
+file: /courses/esd-68j-communications-and-information-policy-spring-2006/28f4e4a0b6589971551de37ac07bdddd_mod3a_lec1.pdf
 file_size: 96393
 file_type: application/pdf
 learning_resource_types:
