@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a study guide explaining the topic - Architecting a
   Networked Application.
-file: /ol-ocw-studio-app/courses/esd-68j-communications-and-information-policy-spring-2006/25c3241752429eb4dba5e7494d53b327_clark_app_arch21.pdf
+file: /courses/esd-68j-communications-and-information-policy-spring-2006/25c3241752429eb4dba5e7494d53b327_clark_app_arch21.pdf
 file_size: 140140
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the topic VoIP.
-file: /ol-ocw-studio-app/courses/esd-68j-communications-and-information-policy-spring-2006/2aa603e156ebf2c1c55421e8fd3a6955_mod3d_lec2a_note.pdf
+file: /courses/esd-68j-communications-and-information-policy-spring-2006/2aa603e156ebf2c1c55421e8fd3a6955_mod3d_lec2a_note.pdf
 file_size: 53952
 file_type: application/pdf
 learning_resource_types:

@@ -4,7 +4,7 @@ description: In 1998, university professor Kembrew McLeod trademarked the phrase
   of expression" as a comment on the current state of intellectual property law and
   the exchange of ideas. His book of the same title has been published under a Creative
   Commons license. (Image courtesy of Prof. Kembrew McLeod.)
-file: /ol-ocw-studio-app/courses/esd-68j-communications-and-information-policy-spring-2006/8d1f9f14bcd9d08b4c13fc6f8cf0e332_esd-68js06.jpg
+file: /courses/esd-68j-communications-and-information-policy-spring-2006/8d1f9f14bcd9d08b4c13fc6f8cf0e332_esd-68js06.jpg
 file_size: 109516
 file_type: image/jpeg
 image_metadata:

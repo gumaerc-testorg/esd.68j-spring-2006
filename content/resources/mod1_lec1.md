@@ -3,7 +3,7 @@ content_type: resource
 description: This resource is a quick guide to the internet, and other topics like
   network details, packet details, router, congestion, quality of service, protocol,
   TCP.
-file: /ol-ocw-studio-app/courses/esd-68j-communications-and-information-policy-spring-2006/8cb9e616dccb84d7aa805d8d0bdf1386_mod1_lec1.pdf
+file: /courses/esd-68j-communications-and-information-policy-spring-2006/8cb9e616dccb84d7aa805d8d0bdf1386_mod1_lec1.pdf
 file_size: 124874
 file_type: application/pdf
 learning_resource_types:

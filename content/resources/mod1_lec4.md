@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a quick guide to the internet interconnection.
-file: /ol-ocw-studio-app/courses/esd-68j-communications-and-information-policy-spring-2006/38a26d32a1f1a5f8cb5e7f8b422c6bea_mod1_lec4.pdf
+file: /courses/esd-68j-communications-and-information-policy-spring-2006/38a26d32a1f1a5f8cb5e7f8b422c6bea_mod1_lec4.pdf
 file_size: 78804
 file_type: application/pdf
 learning_resource_types:

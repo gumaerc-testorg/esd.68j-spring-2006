@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource explains the topics IPTV, premium cable, streaming, hybrids,
   xDSL, IPTV architectures, network and device impacts.
-file: /ol-ocw-studio-app/courses/esd-68j-communications-and-information-policy-spring-2006/597f6936955b14cd32273f931abcfbea_mod3d_iptv.pdf
+file: /courses/esd-68j-communications-and-information-policy-spring-2006/597f6936955b14cd32273f931abcfbea_mod3d_iptv.pdf
 file_size: 212137
 file_type: application/pdf
 learning_resource_types:
