@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/esd-68j-communications-and-information-policy-spring-2006/a3ff4fa57fe33bda123c1d9877285990_esd-68js06-th.jpg
+file: /ol-ocw-studio-app/courses/esd-68j-communications-and-information-policy-spring-2006/a3ff4fa57fe33bda123c1d9877285990_esd-68js06-th.jpg
 file_size: 10375
 file_type: image/jpeg
 image_metadata:

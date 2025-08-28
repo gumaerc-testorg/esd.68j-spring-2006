@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a study guide explaining the topic - Readings on Alternative
   Futures for the Internet.
-file: /courses/esd-68j-communications-and-information-policy-spring-2006/bbd39e327e3244b20a3f6d467bd32b9e_future_internet.pdf
+file: /ol-ocw-studio-app/courses/esd-68j-communications-and-information-policy-spring-2006/bbd39e327e3244b20a3f6d467bd32b9e_future_internet.pdf
 file_size: 198757
 file_type: application/pdf
 learning_resource_types:
