@@ -30,7 +30,7 @@ ESD.10 (Introduction to Technology and Policy), or permission of instructor. Stu
 Textbook
 --------
 
-{{% resource_link "3973b87e-3642-41d0-8606-970f9f93f6cd" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Nuechterlein, J., and P. Weiser. {{% resource_link "91ae1be5-febb-4cbe-ab54-530317b56990" "_Digital Crossroads: American Telecommunications Policy in the Internet Age_" %}}. Cambridge, MA: MIT Press, 2005. ISBN: 0262140918.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/digital-crossroads-second-edition) Nuechterlein, J., and P. Weiser. [_Digital Crossroads: American Telecommunications Policy in the Internet Age_](https://mitpress.mit.edu/books/digital-crossroads). Cambridge, MA: MIT Press, 2005. ISBN: 0262140918.
 
 Grading
 -------
